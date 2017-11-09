@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2006
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Tree of Star", "Tree of Star\Tree of Star.pyproj", "{62F66DDF-4B30-4AE9-A8AB-81D3BA9471BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62F66DDF-4B30-4AE9-A8AB-81D3BA9471BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62F66DDF-4B30-4AE9-A8AB-81D3BA9471BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB00FF05-AE8E-41C2-A349-1B1A25DE5DFB}
+	EndGlobalSection
+EndGlobal
